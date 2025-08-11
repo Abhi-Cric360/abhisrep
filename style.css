@@ -1,0 +1,21 @@
+.prof{
+    background-color: black;
+    color: white;
+    background-image: url("https://cdn.pixabay.com/photo/2016/11/21/06/53/beautiful-natural-image-1844362_1280.jpg");
+    background-repeat:no-repeat;
+    background-size: cover;
+}
+div{
+    background-color: red;
+}
+.head{
+    font-size: 100px;
+    text-shadow: 2px 2px 10px red;
+    text-decoration: 9px grey underline;
+}
+img{
+    border-radius: 16px;
+    padding: 20px;
+    height: 20px;
+    width: 20px;
+}
